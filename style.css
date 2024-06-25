@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.titulo{
+    background-color: salmon;
+    color: antiquewhite;
+    margin: 0%;
+    display: flex;
+    justify-content: first baseline;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.logo-imagem {
+    width: 8%;}
+
+.lista-item{
+      display: inline-block;
+      justify-content: end;
+      margin: 17px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+.sobresiteimagem{
+    width: 300px;
+    padding: 0 60px;
+}
+
+
+.sobresite{
+    background-color: antiquewhite;
+    color: salmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 24px;}
+    
+
+    .sobresite-div-conteudo{
+        width: 330px;
+        padding: 130px; }
+
+    body{font-family: 'Source Serif Pro', serif;}
+
+
+    .rodape{
+        background-color: salmon;
+        padding: 20px;
+        text-align: center;
+        justify-content: space-around;
+        display: block;
+    }
+    .rodape-imagem{
+        width: 4%;
+
+    }
+    .sobresite-div-pesquisa{ 
+        padding: 0 20%;}
+
+    body{font-family: 'Source Serif Pro', serif;}
+ 
+    .formulario{
+        display: flex;
+        justify-content: center;
+        background-color: rgb(61, 107, 107);
+        color: rgb(206, 194, 179);
+    }
+.sobresitetrab{
+    background-color: rgb(77, 131, 131);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 24px;
+}
+.sobresitetrab2{
+    background-color: rgb(113, 190, 190);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: first baseline;
+    align-items: center;
+    padding: 0 24px;
+}
+.formulario-titulo{
+    text-align: center;
+    display: block;
+    justify-content: center;
+}
