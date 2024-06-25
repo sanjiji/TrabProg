@@ -66,7 +66,8 @@
 
 
     .rodape{
-        background-color: salmon;
+        background-color: antiquewhite;
+        color: salmon;
         padding: 20px;
         text-align: center;
         justify-content: space-around;
@@ -81,12 +82,7 @@
 
     body{font-family: 'Source Serif Pro', serif;}
  
-    .formulario{
-        display: flex;
-        justify-content: center;
-        background-color: rgb(61, 107, 107);
-        color: rgb(206, 194, 179);
-    }
+
 .sobresitetrab{
     background-color: rgb(77, 131, 131);
     color: rgb(255, 255, 255);
@@ -102,9 +98,4 @@
     justify-content: first baseline;
     align-items: center;
     padding: 0 24px;
-}
-.formulario-titulo{
-    text-align: center;
-    display: block;
-    justify-content: center;
 }
